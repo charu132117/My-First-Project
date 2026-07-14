@@ -2,11 +2,11 @@ name="charulatha"
 age=18
 height=5.4
 is_student=True
-Print("Name:",name)
-print("age:",age)
+print("Name:",name)
+print("Age:",age)
 print("Height:",height)
-print("Student:",is_Student)
+print("Student:",is_student)
 print(type(name))
 print(type(age))
 print(type(height))
-print(type(is_Student))
+print(type(is_student))
