@@ -1,0 +1,4 @@
+name="charulatha"
+age=18
+print(name)
+print(age)
